@@ -1,0 +1,19 @@
+.inp{
+    width: 500px;
+    height: 50px;
+    margin-top:20px;
+    border: none;
+    outline: none;
+    border-radius: 6px;
+}
+@media only screen and (max-width: 520px){
+    .inp{
+        width: 400px;
+    }
+}
+
+@media only screen and (max-width: 420px){
+    .inp{
+        width: 300px;
+    }
+}

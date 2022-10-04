@@ -1,0 +1,19 @@
+button {
+    border: 2px solid wheat;
+    flex-basis: 48%;
+    padding: 5px;
+    text-align: center;
+    font-size: 15px;
+    color: purple;
+    transition: all 0.5s;
+  }
+  button:hover {
+    border-color: grey;
+    color: pink;
+  }
+
+  .button-controls {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
