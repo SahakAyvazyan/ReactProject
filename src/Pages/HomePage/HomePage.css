@@ -5,8 +5,9 @@
     background-size: cover;
 }
 .Vazgen{
-    width: 200px;
-    height: 200px;
+    width: 400px;
+    height: 400px;
+    margin-top: 50px;
     background-image: url(img/2.jpeg);
     background-size: 100% 100%;
 }
